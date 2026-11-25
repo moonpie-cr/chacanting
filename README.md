@@ -51,20 +51,3 @@
 ## 💾 数据
 
 🔒 订单只存在你自己浏览器的 `localStorage` 里，不会上传到任何地方。
-
-## 🚧 已知限制
-
-- 🧪 只是模拟点单，店家收不到订单
-- 🪑 每个座位进去后都是同一个卡座画面
-- 🗓️ 节日要在 ★ 里手动切换
-- ❓ 少数符号（⏰☕⚠✓✕）不是像素字体
-- 🌐 英语、俄语翻译还没有经过母语者校对
-
-## 🙏 致谢
-
-- 🔤 [Fusion Pixel Font](https://github.com/TakWolf/fusion-pixel-font) by TakWolf · [SIL OFL 1.1](https://openfontlicense.org/)
-- 🌤️ [香港天文台开放数据](https://data.weather.gov.hk/weatherAPI/doc/)
-
-## 📜 许可
-
-代码：（请填入你选择的许可证，例如 MIT）· 🔤 内嵌字体仍然适用 OFL 1.1
